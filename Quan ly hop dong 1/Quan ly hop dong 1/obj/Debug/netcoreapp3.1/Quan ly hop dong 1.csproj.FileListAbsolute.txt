@@ -1,0 +1,29 @@
+C:\Users\My PC\Documents\Đề án\Quan ly hop dong 1\Quan ly hop dong 1\bin\Debug\netcoreapp3.1\Quan ly hop dong 1.exe
+C:\Users\My PC\Documents\Đề án\Quan ly hop dong 1\Quan ly hop dong 1\bin\Debug\netcoreapp3.1\Quan ly hop dong 1.deps.json
+C:\Users\My PC\Documents\Đề án\Quan ly hop dong 1\Quan ly hop dong 1\bin\Debug\netcoreapp3.1\Quan ly hop dong 1.runtimeconfig.json
+C:\Users\My PC\Documents\Đề án\Quan ly hop dong 1\Quan ly hop dong 1\bin\Debug\netcoreapp3.1\Quan ly hop dong 1.runtimeconfig.dev.json
+C:\Users\My PC\Documents\Đề án\Quan ly hop dong 1\Quan ly hop dong 1\bin\Debug\netcoreapp3.1\Quan ly hop dong 1.dll
+C:\Users\My PC\Documents\Đề án\Quan ly hop dong 1\Quan ly hop dong 1\bin\Debug\netcoreapp3.1\Quan ly hop dong 1.pdb
+C:\Users\My PC\Documents\Đề án\Quan ly hop dong 1\Quan ly hop dong 1\obj\Debug\netcoreapp3.1\Quan ly hop dong 1.csproj.AssemblyReference.cache
+C:\Users\My PC\Documents\Đề án\Quan ly hop dong 1\Quan ly hop dong 1\obj\Debug\netcoreapp3.1\Quan_ly_hop_dong_1.Form1.resources
+C:\Users\My PC\Documents\Đề án\Quan ly hop dong 1\Quan ly hop dong 1\obj\Debug\netcoreapp3.1\Quan ly hop dong 1.csproj.GenerateResource.cache
+C:\Users\My PC\Documents\Đề án\Quan ly hop dong 1\Quan ly hop dong 1\obj\Debug\netcoreapp3.1\Quan ly hop dong 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My PC\Documents\Đề án\Quan ly hop dong 1\Quan ly hop dong 1\obj\Debug\netcoreapp3.1\Quan ly hop dong 1.AssemblyInfoInputs.cache
+C:\Users\My PC\Documents\Đề án\Quan ly hop dong 1\Quan ly hop dong 1\obj\Debug\netcoreapp3.1\Quan ly hop dong 1.AssemblyInfo.cs
+C:\Users\My PC\Documents\Đề án\Quan ly hop dong 1\Quan ly hop dong 1\obj\Debug\netcoreapp3.1\Quan ly hop dong 1.csproj.CoreCompileInputs.cache
+C:\Users\My PC\Documents\Đề án\Quan ly hop dong 1\Quan ly hop dong 1\obj\Debug\netcoreapp3.1\Quan ly hop dong 1.dll
+C:\Users\My PC\Documents\Đề án\Quan ly hop dong 1\Quan ly hop dong 1\obj\Debug\netcoreapp3.1\Quan ly hop dong 1.pdb
+C:\Users\My PC\Documents\Đề án\Quan ly hop dong 1\Quan ly hop dong 1\obj\Debug\netcoreapp3.1\Quan ly hop dong 1.genruntimeconfig.cache
+C:\Users\My PC\Documents\Đề án\Quan ly hop dong 1\Quan ly hop dong 1\obj\Debug\netcoreapp3.1\Quan_ly_hop_dong_1.Properties.Resources.resources
+C:\Users\My PC\Documents\Đề án\Quan ly hop dong 1\Quan ly hop dong 1\obj\Debug\netcoreapp3.1\Quan_ly_hop_dong_1.Form2.resources
+C:\Users\My PC\Documents\Đề án\Quan ly hop dong 1\Quan ly hop dong 1\obj\Debug\netcoreapp3.1\Quan_ly_hop_dong_1.Form3.resources
+C:\Users\My PC\Documents\Đề án\Quan ly hop dong 1\Quan ly hop dong 1\obj\Debug\netcoreapp3.1\Quan_ly_hop_dong_1.MDIParent1.resources
+C:\Users\My PC\Documents\Đề án\Quan ly hop dong 1\Quan ly hop dong 1\obj\Debug\netcoreapp3.1\Quan_ly_hop_dong_1.Form4.resources
+C:\Users\My PC\Documents\Đề án\Quan ly hop dong 1\Quan ly hop dong 1\obj\Debug\netcoreapp3.1\Quan_ly_hop_dong_1.Form5.resources
+C:\Users\My PC\Documents\Đề án\Quan ly hop dong 1\Quan ly hop dong 1\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\My PC\Documents\Đề án\Quan ly hop dong 1\Quan ly hop dong 1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\My PC\Documents\Đề án\Quan ly hop dong 1\Quan ly hop dong 1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\My PC\Documents\Đề án\Quan ly hop dong 1\Quan ly hop dong 1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\My PC\Documents\Đề án\Quan ly hop dong 1\Quan ly hop dong 1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\My PC\Documents\Đề án\Quan ly hop dong 1\Quan ly hop dong 1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\My PC\Documents\Đề án\Quan ly hop dong 1\Quan ly hop dong 1\obj\Debug\netcoreapp3.1\Quan_ly_hop_dong_1.Form6.resources
